@@ -29,7 +29,7 @@
 # MediaNama Expert comments on the Bill
 
 - [Considering consent and offences](4.a.pdf)
-- [Regulatory governance under the PDP Bill: A powerful ship with an unchecked captain?](4.b.pdf) Parsheera*
+- [Regulatory governance under the PDP Bill: A powerful ship with an unchecked captain?](4.b.pdf)
 - [Considering data localisation and its effects on payments](4.c.pdf)
 - [Looking at social media intermediaries and significant data fiduciaries, including political parties](4.d.pdf)
 - [Protecting children's data online](4.e.pdf)
@@ -47,19 +47,19 @@
 - [Looking at how well the Bill protects user rights](5.a1.pdf)
 - [Impact of the Bill on companies](5.a2.pdf)
 
-##  Government access to data:
+##  Government access to data
 - [Issues around surveillance in the Bill](5.b1.pdf)
 - [Improving the Bill to safeguard against surveillance](5.b2.pdf)
 
-## Data Protection Authority:
+## Data Protection Authority
 - [Data Protection Authority's independence and powers under the Bill](5.c1.pdf)
 - [The Data Protection Authority's capacity and composition, and recommendations on how the regulator should work](5.c2.pdf)
 
-## Data localisation:
+## Data localisation
 - [Issues with classification of data in the Bill](5.d1.pdf)
 - [Issues with data localisation norms in the Bill](5.d2.pdf)
 
-## Non Personal Data:
+## Non Personal Data
 - [Is defining non-personal data possible? Is anonymising it a good idea?](5.e1.pdf)
 - [Considering intellectual property rights over non-personal data](5.e2.pdf)
 - [Why does the Indian government want to regulate non-personal data?](5.e3.pdf)
