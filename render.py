@@ -61,7 +61,8 @@ class Spine:
         targetFileHandle.write("BookmarkPageNumber: " + str(page) + "\n")
         targetFileHandle.write("BookmarkZoom: FitHeight\n")
 
-    def _generate_metadata(self, filename):
+    def _generate_metadata(self, filename, flatten_inner_bookmarks=True):
+
         with open(filename, 'w') as target:
             if (self.title):
                 target.write("InfoBegin\n")
@@ -70,7 +71,11 @@ class Spine:
 
             for b in self.oldBookmarks:
                 outer_level = self._get_level_from_page_number(b.page)
-                level = outer_level + b.level
+                if (flatten_inner_bookmarks):
+                    increment = 1
+                else:
+                    increment = b.level
+                level = outer_level + increment
                 self.bookmarks.append(Bookmark(b.page+1, b.title, level))
 
             self.bookmarks.sort()
