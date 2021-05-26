@@ -37,51 +37,6 @@ BookmarkLevel: 2
 BookmarkPageNumber: 125
 BookmarkZoom: FitHeight
 BookmarkBegin
-BookmarkTitle: 1. 180726_Committee Report on Data Protection_ clean.pdf
-BookmarkLevel: 2
-BookmarkPageNumber: 125
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: 2. Annexure A
-BookmarkLevel: 3
-BookmarkPageNumber: 307
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: 3. Annexure B
-BookmarkLevel: 3
-BookmarkPageNumber: 309
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: 4. Annexure C
-BookmarkLevel: 3
-BookmarkPageNumber: 314
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: 5. Appendix_Final
-BookmarkLevel: 3
-BookmarkPageNumber: 317
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: 6
-BookmarkLevel: 3
-BookmarkPageNumber: 331
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: 7. Dissent Note Rama Vedashree
-BookmarkLevel: 3
-BookmarkPageNumber: 332
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: 8. New Microsoft Office Word Document
-BookmarkLevel: 3
-BookmarkPageNumber: 334
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: 9. PROF. RISHIKESH 1
-BookmarkLevel: 3
-BookmarkPageNumber: 337
-BookmarkZoom: FitHeight
-BookmarkBegin
 BookmarkTitle: Dvara Research's Personal Data Protection Bill
 BookmarkLevel: 2
 BookmarkPageNumber: 338
@@ -89,11 +44,6 @@ BookmarkZoom: FitHeight
 BookmarkBegin
 BookmarkTitle: MP Shashi Tharoor's Data Protection Bill
 BookmarkLevel: 2
-BookmarkPageNumber: 367
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Dr. Shashi Tharoor's official website
-BookmarkLevel: 3
 BookmarkPageNumber: 367
 BookmarkZoom: FitHeight
 BookmarkBegin
@@ -107,96 +57,6 @@ BookmarkLevel: 2
 BookmarkPageNumber: 432
 BookmarkZoom: FitHeight
 BookmarkBegin
-BookmarkTitle: Save Our Privacy | Bill
-BookmarkLevel: 3
-BookmarkPageNumber: 432
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: THE PERSONAL DATA AND INFORMATION PRIVACY CODE BILL, 2019
-BookmarkLevel: 3
-BookmarkPageNumber: 432
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: A Bill
-BookmarkLevel: 3
-BookmarkPageNumber: 432
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: PRELIMINARY
-BookmarkLevel: 3
-BookmarkPageNumber: 432
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Right to Privacy
-BookmarkLevel: 3
-BookmarkPageNumber: 436
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: protection of personal data
-BookmarkLevel: 3
-BookmarkPageNumber: 438
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: notice by data controllers
-BookmarkLevel: 3
-BookmarkPageNumber: 438
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Consent of Data Subjects
-BookmarkLevel: 3
-BookmarkPageNumber: 439
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Further limitations on Data Controllers
-BookmarkLevel: 3
-BookmarkPageNumber: 446
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Rights of a data subject
-BookmarkLevel: 3
-BookmarkPageNumber: 453
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: INTERCEPTION AND SURVEILLANCE
-BookmarkLevel: 3
-BookmarkPageNumber: 457
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: The Privacy Commission
-BookmarkLevel: 3
-BookmarkPageNumber: 466
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: State Privacy Commissions
-BookmarkLevel: 3
-BookmarkPageNumber: 479
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Surveillance and Interception Review Divisions
-BookmarkLevel: 3
-BookmarkPageNumber: 481
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Offences and penalties
-BookmarkLevel: 3
-BookmarkPageNumber: 484
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Miscellaneous
-BookmarkLevel: 3
-BookmarkPageNumber: 486
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: THE SCHEDULE
-BookmarkLevel: 3
-BookmarkPageNumber: 490
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Competent Organisations
-BookmarkLevel: 3
-BookmarkPageNumber: 490
-BookmarkZoom: FitHeight
-BookmarkBegin
 BookmarkTitle: TRAI recommendations on privacy
 BookmarkLevel: 2
 BookmarkPageNumber: 493
@@ -205,21 +65,6 @@ BookmarkBegin
 BookmarkTitle: Comments on TRAI recommendations on privacy
 BookmarkLevel: 2
 BookmarkPageNumber: 570
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: On the TRAI’s recommendations on Privacy
-BookmarkLevel: 3
-BookmarkPageNumber: 570
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Issues that the TRAI has avoided
-BookmarkLevel: 3
-BookmarkPageNumber: 570
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: TRAI Recommendations on privacy and data protection
-BookmarkLevel: 3
-BookmarkPageNumber: 571
 BookmarkZoom: FitHeight
 BookmarkBegin
 BookmarkTitle: Key Highlights of the PDP Bill, 2019
@@ -232,18 +77,8 @@ BookmarkLevel: 2
 BookmarkPageNumber: 575
 BookmarkZoom: FitHeight
 BookmarkBegin
-BookmarkTitle: Key aspects of the Personal Data Protection Bill, 2019
-BookmarkLevel: 2
-BookmarkPageNumber: 575
-BookmarkZoom: FitHeight
-BookmarkBegin
 BookmarkTitle: FAQs on the PDP Bill by Ikigai law
 BookmarkLevel: 2
-BookmarkPageNumber: 578
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Decoding the Personal Data Protection Bill, 2019: A new data governance framework for India | Ikigai Law
-BookmarkLevel: 3
 BookmarkPageNumber: 578
 BookmarkZoom: FitHeight
 BookmarkBegin
@@ -252,64 +87,14 @@ BookmarkLevel: 2
 BookmarkPageNumber: 581
 BookmarkZoom: FitHeight
 BookmarkBegin
-BookmarkTitle: Key Changes in the Personal Data Protection Bill, 2019 from the Srikrishna Committee Draft
-BookmarkLevel: 3
-BookmarkPageNumber: 581
-BookmarkZoom: FitHeight
-BookmarkBegin
 BookmarkTitle: Highlights of the 2018 bill
 BookmarkLevel: 2
 BookmarkPageNumber: 586
 BookmarkZoom: FitHeight
 BookmarkBegin
-BookmarkTitle: Justice Srikrishna data protection draft bill is now public, highlights and what happens next
-BookmarkLevel: 3
-BookmarkPageNumber: 586
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Key highlights from the bill
-BookmarkLevel: 3
-BookmarkPageNumber: 586
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: What happens next?
-BookmarkLevel: 3
-BookmarkPageNumber: 587
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Opaque and ineffective consultations
-BookmarkLevel: 3
-BookmarkPageNumber: 587
-BookmarkZoom: FitHeight
-BookmarkBegin
 BookmarkTitle: Government invites public comments on Srikrishna data protection bill
 BookmarkLevel: 2
 BookmarkPageNumber: 588
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Government invites public comments on Srikrishna data protection bill
-BookmarkLevel: 3
-BookmarkPageNumber: 588
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: How the bill measures up
-BookmarkLevel: 3
-BookmarkPageNumber: 588
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Ownership, consent, portability and localisation
-BookmarkLevel: 3
-BookmarkPageNumber: 588
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Right to be forgotten, transparency, and surveillance
-BookmarkLevel: 3
-BookmarkPageNumber: 589
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Penalties, data protection authority, and breaches
-BookmarkLevel: 3
-BookmarkPageNumber: 590
 BookmarkZoom: FitHeight
 BookmarkBegin
 BookmarkTitle: Highlights of Personal Data Protection Bill, 2018 by DSCI
@@ -327,64 +112,9 @@ BookmarkLevel: 2
 BookmarkPageNumber: 595
 BookmarkZoom: FitHeight
 BookmarkBegin
-BookmarkTitle: Personal Data Protection Bill, 2019: Considering consent and offences
-BookmarkLevel: 2
-BookmarkPageNumber: 595
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: How is Chaayos classified?
-BookmarkLevel: 2
-BookmarkPageNumber: 595
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Proportionate obligations under the PDP Bill, 2019
-BookmarkLevel: 2
-BookmarkPageNumber: 596
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: How does consent work under PDP Bill, 2019?
-BookmarkLevel: 2
-BookmarkPageNumber: 596
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: How will this work in practice?
-BookmarkLevel: 3
-BookmarkPageNumber: 598
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: What if you do not consent to the use of your image? Can Chaayos refuse to serve you tea altogether?
-BookmarkLevel: 3
-BookmarkPageNumber: 598
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: What if Chaayos refuses to follow the law?
-BookmarkLevel: 3
-BookmarkPageNumber: 598
-BookmarkZoom: FitHeight
-BookmarkBegin
 BookmarkTitle: Regulatory governance under the PDP Bill: A powerful ship with an unchecked captain?
 BookmarkLevel: 2
 BookmarkPageNumber: 601
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Regulatory governance under the PDP Bill: A powerful ship with an unchecked captain?
-BookmarkLevel: 3
-BookmarkPageNumber: 601
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Why is the constitution of the selection committee so relevant?
-BookmarkLevel: 3
-BookmarkPageNumber: 602
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Transparency in DPA’s regulation-making process
-BookmarkLevel: 3
-BookmarkPageNumber: 604
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: DPA’s control over the innovation sandbox
-BookmarkLevel: 3
-BookmarkPageNumber: 605
 BookmarkZoom: FitHeight
 BookmarkBegin
 BookmarkTitle: Considering data localisation and its effects on payments
@@ -392,64 +122,9 @@ BookmarkLevel: 2
 BookmarkPageNumber: 607
 BookmarkZoom: FitHeight
 BookmarkBegin
-BookmarkTitle: Personal Data Protection Bill, 2019: Considering data localisation and its effects on payments
-BookmarkLevel: 3
-BookmarkPageNumber: 607
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Considering the scenario — a few impressions
-BookmarkLevel: 3
-BookmarkPageNumber: 607
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Transferring this data abroad
-BookmarkLevel: 3
-BookmarkPageNumber: 608
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Interplay between RBI’s localisation mandate and PDP Bill
-BookmarkLevel: 3
-BookmarkPageNumber: 609
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Separately, at least three additional sources of uncertainty and complexity exist:
-BookmarkLevel: 3
-BookmarkPageNumber: 610
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: In conclusion
-BookmarkLevel: 3
-BookmarkPageNumber: 611
-BookmarkZoom: FitHeight
-BookmarkBegin
 BookmarkTitle: Looking at social media intermediaries and significant data fiduciaries, including political parties
 BookmarkLevel: 2
 BookmarkPageNumber: 612
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Personal Data Protection Bill, 2019: Looking at social media intermediaries and significant data fiduciaries
-BookmarkLevel: 3
-BookmarkPageNumber: 612
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Sharing of personal data by social media Intermediaries
-BookmarkLevel: 3
-BookmarkPageNumber: 612
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Remedies available to a data principal for breach of obligations
-BookmarkLevel: 3
-BookmarkPageNumber: 614
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Deterrent principle and its glaring omission
-BookmarkLevel: 3
-BookmarkPageNumber: 615
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Conclusion
-BookmarkLevel: 3
-BookmarkPageNumber: 617
 BookmarkZoom: FitHeight
 BookmarkBegin
 BookmarkTitle: Protecting children's data online
@@ -457,54 +132,9 @@ BookmarkLevel: 2
 BookmarkPageNumber: 618
 BookmarkZoom: FitHeight
 BookmarkBegin
-BookmarkTitle: Personal Data Protection Bill, 2019: Protecting children’s data online
-BookmarkLevel: 3
-BookmarkPageNumber: 618
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: What happens when children want to access online services?
-BookmarkLevel: 3
-BookmarkPageNumber: 619
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: How will the PDP Bill affect apps like PUBG?
-BookmarkLevel: 3
-BookmarkPageNumber: 619
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: What can be effective age-gating mechanisms?
-BookmarkLevel: 3
-BookmarkPageNumber: 620
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: What will happen if a guardian data fiduciary defaults on its responsibilities?
-BookmarkLevel: 3
-BookmarkPageNumber: 620
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Is Chapter IV of the PDP Bill enough?
-BookmarkLevel: 3
-BookmarkPageNumber: 620
-BookmarkZoom: FitHeight
-BookmarkBegin
 BookmarkTitle: Looking at use of video recordings, facial recognition software and drones by police
 BookmarkLevel: 2
 BookmarkPageNumber: 623
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Personal Data Protection Bill, 2019: Looking at use of video recordings, facial recognition software and drones by police
-BookmarkLevel: 3
-BookmarkPageNumber: 623
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: What situations are ‘exempted’ from the application of the PDP Bill?
-BookmarkLevel: 3
-BookmarkPageNumber: 624
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Conclusion
-BookmarkLevel: 3
-BookmarkPageNumber: 627
 BookmarkZoom: FitHeight
 BookmarkBegin
 BookmarkTitle: Will the PDP Bill rid us of pesky and creepy ads?
@@ -512,54 +142,9 @@ BookmarkLevel: 2
 BookmarkPageNumber: 628
 BookmarkZoom: FitHeight
 BookmarkBegin
-BookmarkTitle: Personal Data Protection Bill, 2019: Will it rid us of pesky and creepy ads?
-BookmarkLevel: 3
-BookmarkPageNumber: 628
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: What is Real Time Bidding?
-BookmarkLevel: 3
-BookmarkPageNumber: 628
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: The Personal Data Protection Bill — Reform or Relapse?
-BookmarkLevel: 3
-BookmarkPageNumber: 629
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Who is responsible for maintaining the protection of personal data?
-BookmarkLevel: 3
-BookmarkPageNumber: 630
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Conclusion
-BookmarkLevel: 3
-BookmarkPageNumber: 631
-BookmarkZoom: FitHeight
-BookmarkBegin
 BookmarkTitle: Does the Personal Data Protection Bill, 2019, protect citizens' privacy from government surveillance?
 BookmarkLevel: 2
 BookmarkPageNumber: 632
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Does the Personal Data Protection Bill, 2019, protect citizens’ privacy from government surveillance?
-BookmarkLevel: 3
-BookmarkPageNumber: 632
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: How will the Central Government, WhatsApp and NSO be classified under the Bill?
-BookmarkLevel: 3
-BookmarkPageNumber: 633
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Can the DPA investigate a government agency and WhatsApp?
-BookmarkLevel: 3
-BookmarkPageNumber: 633
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: How will this work in practice?
-BookmarkLevel: 3
-BookmarkPageNumber: 634
 BookmarkZoom: FitHeight
 BookmarkBegin
 BookmarkTitle: How will India's Personal Data Protection Bill, 2019, impact schools?
@@ -567,84 +152,9 @@ BookmarkLevel: 2
 BookmarkPageNumber: 636
 BookmarkZoom: FitHeight
 BookmarkBegin
-BookmarkTitle: How will India’s Personal Data Protection Bill, 2019 impact schools?
-BookmarkLevel: 3
-BookmarkPageNumber: 636
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: What kind of data do schools collect?
-BookmarkLevel: 3
-BookmarkPageNumber: 636
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: How will the Bill classify schools?
-BookmarkLevel: 3
-BookmarkPageNumber: 636
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Will schools have to change the way their admission forms are drafted and processed?
-BookmarkLevel: 3
-BookmarkPageNumber: 637
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Content of admission form:
-BookmarkLevel: 3
-BookmarkPageNumber: 637
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Processing of admission data:
-BookmarkLevel: 3
-BookmarkPageNumber: 638
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Can schools share sensitive personal details of children such as health data?
-BookmarkLevel: 3
-BookmarkPageNumber: 638
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: How must schools deal with data they generate — such as performance records, report cards, etc?
-BookmarkLevel: 3
-BookmarkPageNumber: 639
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Conclusion
-BookmarkLevel: 3
-BookmarkPageNumber: 640
-BookmarkZoom: FitHeight
-BookmarkBegin
 BookmarkTitle: Considering impact on the healthcare sector
 BookmarkLevel: 2
 BookmarkPageNumber: 641
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Personal Data Protection Bill, 2019: Considering impact on the healthcare sector
-BookmarkLevel: 3
-BookmarkPageNumber: 641
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Lack of data processing standards across the sector
-BookmarkLevel: 3
-BookmarkPageNumber: 641
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Would a general practitioner and a hospital be equally liable?
-BookmarkLevel: 3
-BookmarkPageNumber: 642
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: What happens in an emergency situation?
-BookmarkLevel: 3
-BookmarkPageNumber: 643
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: What happens when you order medicines or book diagnostics online?
-BookmarkLevel: 3
-BookmarkPageNumber: 643
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Conclusion
-BookmarkLevel: 3
-BookmarkPageNumber: 644
 BookmarkZoom: FitHeight
 BookmarkBegin
 BookmarkTitle: Considering its impact on housing societies
@@ -652,74 +162,9 @@ BookmarkLevel: 2
 BookmarkPageNumber: 645
 BookmarkZoom: FitHeight
 BookmarkBegin
-BookmarkTitle: Personal Data Protection Bill, 2019: Considering its impact on housing societies
-BookmarkLevel: 3
-BookmarkPageNumber: 645
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Do housing societies collect personal data?
-BookmarkLevel: 3
-BookmarkPageNumber: 645
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Are housing societies data fiduciaries?
-BookmarkLevel: 3
-BookmarkPageNumber: 646
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Putting consent into effect
-BookmarkLevel: 3
-BookmarkPageNumber: 646
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Could housing societies be exempted from the provisions of the Bill?
-BookmarkLevel: 3
-BookmarkPageNumber: 647
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Would a housing society be considered a ‘small entity’?
-BookmarkLevel: 3
-BookmarkPageNumber: 647
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: What happens when data is not processed manually?
-BookmarkLevel: 3
-BookmarkPageNumber: 648
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Conclusion
-BookmarkLevel: 3
-BookmarkPageNumber: 648
-BookmarkZoom: FitHeight
-BookmarkBegin
 BookmarkTitle: Are matrimonial websites divorced from user privacy?
 BookmarkLevel: 2
 BookmarkPageNumber: 650
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Are matrimonial websites divorced from user privacy?
-BookmarkLevel: 3
-BookmarkPageNumber: 650
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Will the Bill cover matrimonial websites?
-BookmarkLevel: 3
-BookmarkPageNumber: 650
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Are matrimonial websites discriminatory?
-BookmarkLevel: 3
-BookmarkPageNumber: 651
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Does the Bill have any provisions for algorithmic accountability?
-BookmarkLevel: 2
-BookmarkPageNumber: 653
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Conclusion
-BookmarkLevel: 2
-BookmarkPageNumber: 653
 BookmarkZoom: FitHeight
 BookmarkBegin
 BookmarkTitle: Discussions on the PDP Bill, 2019
@@ -737,74 +182,9 @@ BookmarkLevel: 3
 BookmarkPageNumber: 655
 BookmarkZoom: FitHeight
 BookmarkBegin
-BookmarkTitle: #NAMA: Looking at how well the Personal Data Protection Bill, 2019, protects user rights
-BookmarkLevel: 2
-BookmarkPageNumber: 655
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Does the Bill do enough for user rights? Does it live up to Puttaswamy standards?
-BookmarkLevel: 2
-BookmarkPageNumber: 655
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: How would data portability be operationalised? How would it impact companies’ intellectual property?
-BookmarkLevel: 4
-BookmarkPageNumber: 657
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Dealing with data breaches
-BookmarkLevel: 4
-BookmarkPageNumber: 658
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Other issues
-BookmarkLevel: 4
-BookmarkPageNumber: 659
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: What can be better 
-BookmarkLevel: 4
-BookmarkPageNumber: 660
-BookmarkZoom: FitHeight
-BookmarkBegin
 BookmarkTitle: Impact of the Bill on companies
 BookmarkLevel: 3
 BookmarkPageNumber: 661
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: #NAMA: Impact of Personal Data Protection Bill, 2019, on companies
-BookmarkLevel: 4
-BookmarkPageNumber: 661
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: What will be the impact of the Bill on companies? How difficult will compliance be?
-BookmarkLevel: 4
-BookmarkPageNumber: 661
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: What kind of compliance time frame can companies expect?
-BookmarkLevel: 4
-BookmarkPageNumber: 662
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Dealing with privacy-by-design policy certification
-BookmarkLevel: 3
-BookmarkPageNumber: 663
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Regulating social media intermediaries: why?
-BookmarkLevel: 3
-BookmarkPageNumber: 663
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: What’s a consent manager? What could it look like? How does the Bill regulate it?
-BookmarkLevel: 3
-BookmarkPageNumber: 664
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: How would companies’ intellectual property rights be be affected by government access to non-personal data?
-BookmarkLevel: 3
-BookmarkPageNumber: 666
 BookmarkZoom: FitHeight
 BookmarkBegin
 BookmarkTitle: Government access to data
@@ -817,44 +197,9 @@ BookmarkLevel: 3
 BookmarkPageNumber: 668
 BookmarkZoom: FitHeight
 BookmarkBegin
-BookmarkTitle: #NAMA: Issues around surveillance in the Personal Data Protection Bill, 2019
-BookmarkLevel: 3
-BookmarkPageNumber: 668
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: 2019 Bill widens government’s powers and exemptions
-BookmarkLevel: 4
-BookmarkPageNumber: 670
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Does the Bill pass muster of the proportionality standards?
-BookmarkLevel: 4
-BookmarkPageNumber: 672
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Lack of transparency and accountability for government agencies
-BookmarkLevel: 4
-BookmarkPageNumber: 674
-BookmarkZoom: FitHeight
-BookmarkBegin
 BookmarkTitle: Improving the Bill to safeguard against surveillance
 BookmarkLevel: 3
 BookmarkPageNumber: 675
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: #NAMA: Improving the Personal Data Protection Bill, 2019, to safeguard against surveillance
-BookmarkLevel: 4
-BookmarkPageNumber: 675
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Potential safeguards against surveillance in the Bill
-BookmarkLevel: 4
-BookmarkPageNumber: 675
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Greater oversight over access, curtail exemptions: Recommendations
-BookmarkLevel: 4
-BookmarkPageNumber: 676
 BookmarkZoom: FitHeight
 BookmarkBegin
 BookmarkTitle: Data Protection Authority
@@ -867,69 +212,9 @@ BookmarkLevel: 3
 BookmarkPageNumber: 678
 BookmarkZoom: FitHeight
 BookmarkBegin
-BookmarkTitle: #NAMA: Data Protection Authority’s independence and powers under the Personal Data Protection Bill 2019
-BookmarkLevel: 3
-BookmarkPageNumber: 678
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: DPA’s independence: why, how much, and what now?
-BookmarkLevel: 3
-BookmarkPageNumber: 678
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: We don’t have an ideal regulator, let’s start afresh
-BookmarkLevel: 3
-BookmarkPageNumber: 679
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Where did all our regulators come from? What insights do they give into the DPA?
-BookmarkLevel: 4
-BookmarkPageNumber: 680
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: DPA’s powers and functions
-BookmarkLevel: 4
-BookmarkPageNumber: 681
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Should the complaints redressal function be separate from the DPA’s other functions?
-BookmarkLevel: 4
-BookmarkPageNumber: 682
-BookmarkZoom: FitHeight
-BookmarkBegin
 BookmarkTitle: The Data Protection Authority's capacity and composition, and recommendations on how the regulator should work
 BookmarkLevel: 3
 BookmarkPageNumber: 684
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: #NAMA: The Data Protection Authority’s capacity and composition, and recommendations on how the regulator should work
-BookmarkLevel: 4
-BookmarkPageNumber: 684
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Does the DPA have the necessary capacity? Can it regulate for 1.3 billion people?
-BookmarkLevel: 4
-BookmarkPageNumber: 684
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Should there be state-level DPAs?
-BookmarkLevel: 4
-BookmarkPageNumber: 685
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: On government exemptions under the bill
-BookmarkLevel: 4
-BookmarkPageNumber: 685
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: What kind of people should the DPA consist of? Who should lead it? 
-BookmarkLevel: 3
-BookmarkPageNumber: 686
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Recommendations on DPA’s functions, structure, and practices
-BookmarkLevel: 3
-BookmarkPageNumber: 687
 BookmarkZoom: FitHeight
 BookmarkBegin
 BookmarkTitle: Data localisation
@@ -942,59 +227,9 @@ BookmarkLevel: 3
 BookmarkPageNumber: 689
 BookmarkZoom: FitHeight
 BookmarkBegin
-BookmarkTitle: #NAMA: Issues with classification of data in the Personal Data Protection Bill, 2019
-BookmarkLevel: 3
-BookmarkPageNumber: 689
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Classification of data is complex
-BookmarkLevel: 3
-BookmarkPageNumber: 689
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Adequacy vs. data localisation: Which is the better approach?
-BookmarkLevel: 4
-BookmarkPageNumber: 691
-BookmarkZoom: FitHeight
-BookmarkBegin
 BookmarkTitle: Issues with data localisation norms in the Bill
 BookmarkLevel: 3
 BookmarkPageNumber: 694
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: #NAMA: Issues with data localisation norms in the Personal Data Protection Bill, 2019
-BookmarkLevel: 4
-BookmarkPageNumber: 694
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Data localisation in the 2019 Bill: Not really an improvement
-BookmarkLevel: 4
-BookmarkPageNumber: 694
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Data localisation is not about privacy or the economy
-BookmarkLevel: 3
-BookmarkPageNumber: 696
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: How effective is seeking explicit consent?
-BookmarkLevel: 3
-BookmarkPageNumber: 696
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Impact of data localisation on businesses
-BookmarkLevel: 3
-BookmarkPageNumber: 697
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: What would be an ideal timeframe for data localisation?
-BookmarkLevel: 3
-BookmarkPageNumber: 698
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Recommendations
-BookmarkLevel: 3
-BookmarkPageNumber: 698
 BookmarkZoom: FitHeight
 BookmarkBegin
 BookmarkTitle: Non Personal Data
@@ -1007,49 +242,9 @@ BookmarkLevel: 3
 BookmarkPageNumber: 700
 BookmarkZoom: FitHeight
 BookmarkBegin
-BookmarkTitle: #NAMA: Is defining non-personal data possible? Is anonymising it a good idea?
-BookmarkLevel: 3
-BookmarkPageNumber: 700
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: What are the problems with defining Non-Personal Data?
-BookmarkLevel: 3
-BookmarkPageNumber: 700
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Can anonymous data always be traced back to the source?
-BookmarkLevel: 3
-BookmarkPageNumber: 701
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Can non-personal data be used to profile groups of people?
-BookmarkLevel: 4
-BookmarkPageNumber: 702
-BookmarkZoom: FitHeight
-BookmarkBegin
 BookmarkTitle: Considering intellectual property rights over non-personal data
 BookmarkLevel: 3
 BookmarkPageNumber: 704
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: #NAMA: Considering intellectual property rights over non-personal data
-BookmarkLevel: 4
-BookmarkPageNumber: 704
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Is data ownership a useful concept?
-BookmarkLevel: 4
-BookmarkPageNumber: 704
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: How the government can access the data it wants to
-BookmarkLevel: 4
-BookmarkPageNumber: 705
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Sharing data with private entities
-BookmarkLevel: 4
-BookmarkPageNumber: 707
 BookmarkZoom: FitHeight
 BookmarkBegin
 BookmarkTitle: Why does the Indian government want to regulate non-personal data?
@@ -1057,64 +252,9 @@ BookmarkLevel: 3
 BookmarkPageNumber: 709
 BookmarkZoom: FitHeight
 BookmarkBegin
-BookmarkTitle: #NAMA: Why does the Indian government want to regulate non-personal data?
-BookmarkLevel: 4
-BookmarkPageNumber: 709
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Why does the government want control over non-personal data?
-BookmarkLevel: 4
-BookmarkPageNumber: 709
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: What kind of data does the government seek to control through non-personal data governance?
-BookmarkLevel: 4
-BookmarkPageNumber: 710
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Factors to consider while governing non-personal data
-BookmarkLevel: 4
-BookmarkPageNumber: 710
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Benefits of processing non-personal data
-BookmarkLevel: 4
-BookmarkPageNumber: 711
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Harms of processing non-personal data
-BookmarkLevel: 4
-BookmarkPageNumber: 711
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: What can be done to prevent some of these harms?
-BookmarkLevel: 4
-BookmarkPageNumber: 713
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: How will consent work?
-BookmarkLevel: 4
-BookmarkPageNumber: 713
-BookmarkZoom: FitHeight
-BookmarkBegin
 BookmarkTitle: Data trusts and non personal data
 BookmarkLevel: 3
 BookmarkPageNumber: 714
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: #NAMA: Recommendations for governing non-personal data; what data trusts are
-BookmarkLevel: 4
-BookmarkPageNumber: 714
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Recommendations on governance
-BookmarkLevel: 4
-BookmarkPageNumber: 714
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: The concept of Data Stewards/Trusts/Exchanges
-BookmarkLevel: 4
-BookmarkPageNumber: 715
 BookmarkZoom: FitHeight
 BookmarkBegin
 BookmarkTitle: Additional commentary on the PDP Bill, 2019
@@ -1123,11 +263,6 @@ BookmarkPageNumber: 716
 BookmarkZoom: FitHeight
 BookmarkBegin
 BookmarkTitle: Dvara Research's comments on the PDP Bill
-BookmarkLevel: 3
-BookmarkPageNumber: 716
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Our initial comments on the Personal Data Protection Bill, 2019
 BookmarkLevel: 3
 BookmarkPageNumber: 716
 BookmarkZoom: FitHeight
@@ -1147,28 +282,13 @@ BookmarkLevel: 3
 BookmarkPageNumber: 731
 BookmarkZoom: FitHeight
 BookmarkBegin
-BookmarkTitle: New data bill gives sweeping powers to govt
-BookmarkLevel: 4
-BookmarkPageNumber: 731
-BookmarkZoom: FitHeight
-BookmarkBegin
 BookmarkTitle: Personal Data Protection Bill strikes a discordant note on 'non-personal data
 BookmarkLevel: 3
 BookmarkPageNumber: 734
 BookmarkZoom: FitHeight
 BookmarkBegin
-BookmarkTitle: Personal Data Protection Bill strikes a discordant note on ‘non-personal data’
-BookmarkLevel: 4
-BookmarkPageNumber: 734
-BookmarkZoom: FitHeight
-BookmarkBegin
 BookmarkTitle: Power over privacy: New Personal Data Protection Bill fails to really protect the citizen's right to privacy
 BookmarkLevel: 3
-BookmarkPageNumber: 737
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Power over privacy: New Personal Data Protection Bill fails to really protect the citizen’s right to privacy
-BookmarkLevel: 4
 BookmarkPageNumber: 737
 BookmarkZoom: FitHeight
 BookmarkBegin
@@ -1202,18 +322,8 @@ BookmarkLevel: 2
 BookmarkPageNumber: 763
 BookmarkZoom: FitHeight
 BookmarkBegin
-BookmarkTitle: Liveblog on Data Protection Consultation open house Delhi
-BookmarkLevel: 2
-BookmarkPageNumber: 763
-BookmarkZoom: FitHeight
-BookmarkBegin
 BookmarkTitle: Notes from the consultation in Mumbai
 BookmarkLevel: 2
-BookmarkPageNumber: 777
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Notes from Srikrishna Committee open house in Mumbai
-BookmarkLevel: 3
 BookmarkPageNumber: 777
 BookmarkZoom: FitHeight
 BookmarkBegin
@@ -1223,21 +333,6 @@ BookmarkPageNumber: 797
 BookmarkZoom: FitHeight
 BookmarkBegin
 BookmarkTitle: List of Authors
-BookmarkLevel: 2
-BookmarkPageNumber: 797
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Medianama Expert comments
-BookmarkLevel: 2
-BookmarkPageNumber: 797
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Additional Commentary on the Bill
-BookmarkLevel: 2
-BookmarkPageNumber: 797
-BookmarkZoom: FitHeight
-BookmarkBegin
-BookmarkTitle: Other research from
 BookmarkLevel: 2
 BookmarkPageNumber: 797
 BookmarkZoom: FitHeight

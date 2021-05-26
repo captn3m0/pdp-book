@@ -2,9 +2,10 @@ import os
 import markdown
 import html5lib
 from os import access, R_OK
-from PyPDF2 import PdfFileReader
+from PyPDF2 import PdfFileWriter, PdfFileReader
 from os.path import isfile
 import subprocess
+import pdfmerge
 
 class Bookmark:
     def __init__(self, page, title, level=1):
@@ -26,6 +27,7 @@ class Spine:
         self.bookmarks = []
         self.currentLevel = None
         self.oldBookmarks = []
+
     def _get_pdf_number_of_pages(self, filename):
         assert isfile(filename) and access(filename, R_OK), \
                 "File {} doesn't exist or isn't readable".format(filename)
@@ -87,7 +89,8 @@ class Spine:
         return ["pdftk"] + self.files + ['cat', 'output', temp_filename]
 
     def _generate_temp_pdf(self, temp_filename):
-        subprocess.run(self._generate_concat_command(temp_filename))
+        # subprocess.run(self._generate_concat_command(temp_filename))
+        self._merge(self.files, temp_filename)
         self._parse_old_bookmarks(temp_filename)
 
     def _get_level_from_page_number(self, page):
@@ -111,6 +114,18 @@ class Spine:
     def _update_metadata(self, old_filename, metadata_file, new_filename):
         subprocess.run(['java', '-jar', 'PDFtkBox.jar', old_filename, "update_info", metadata_file, 'output', new_filename])
         # subprocess.run(["pdftk"] + [old_filename, "update_info_utf8", metadata_file, "output", new_filename])
+
+    def _merge(self, paths, output):
+        writer = PdfFileWriter()
+        for inputFile in paths:
+            assert os.path.isfile(inputFile), ERROR_PATH.format(inputFile)
+            reader = PdfFileReader(open(inputFile, 'rb'))
+            for page in range(1, reader.getNumPages()+1):
+                print("Writing "+inputFile+":  " + str(page))
+                writer.addPage(reader.getPage(page - 1))
+        
+        with open(output, 'wb') as stream:
+            writer.write(stream)
 
     def generate(self, filename, delete_temp_files = False):
         METADATA_FILENAME = 'metadata.txt'
