@@ -20,11 +20,11 @@
 # Key Highlights of the PDP Bill, 2019
 
 - [Key aspects of the PDP Bill](3.a.pdf)
-- [FAQs on the PDP Bill](3.b.pdf) by Ikigai law
-- [Key changes in the PDP Bill between 2018 and 2019](3.d.pdf) by slfc.in
+- [FAQs on the PDP Bill by Ikigai law](3.b.pdf)
+- [Key changes in the PDP Bill between 2018 and 2019 by slfc.in](3.c.pdf)
 - [Highlights of the 2018 bill](3.d1.pdf)
 - [Government invites public comments on Srikrishna data protection bill](3.d2.pdf)
-- [Highlights of Personal Data Protection Bill, 2018](3.d3.pdf) by DSCI
+- [Highlights of Personal Data Protection Bill, 2018 by DSCI](3.d3.pdf)
 
 # MediaNama Expert comments on the Bill
 
@@ -64,11 +64,10 @@
 - [Considering intellectual property rights over non-personal data](5.e2.pdf)
 - [Why does the Indian government want to regulate non-personal data?](5.e3.pdf)
 - [Data trusts and non personal data](5.e4.pdf)
-- [Report](5.e5.pdf)
 
 ## Additional commentary on the PDP Bill, 2019
 
-- [Dvara Research's comments on the PDP Bill](6.a.pdf), 2019
+- [Dvara Research's comments on the PDP Bill](6.a.pdf)
 - [IFF's brief on the PDP Bill](6.b.pdf)
 - [Mozilla's statement on the Bill](6.c.pdf)
 - [New data bill gives sweeping powers to govt](6.d.pdf)

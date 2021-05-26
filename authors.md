@@ -36,3 +36,5 @@ Garg and Apar Gupta,) to assist legislative engagement.
 - SFLC
 - DSCI
 - SaveOurPrivacy.in
+
+Compiled by [Nemo](https://twitter.com/captn3m0).
