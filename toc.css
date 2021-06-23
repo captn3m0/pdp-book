@@ -1,0 +1,80 @@
+h1 {
+  -pdf-outline: true;  -pdf-level: 0;
+  -pdf-open: false;
+}
+h1 {
+    /*18px via YUI Fonts CSS foundation*/
+    font-size:138.5%;
+    -pdf-outline-level: 0;
+}
+
+h2 {
+    /*16px via YUI Fonts CSS foundation*/
+    font-size:123.1%;
+    -pdf-outline-level: 1;
+}
+
+h3 {
+    /*14px via YUI Fonts CSS foundation*/
+    font-size:108%;
+    -pdf-outline-level: 2;
+}
+
+h4 {
+    -pdf-outline-level: 3;
+}
+
+h5 {
+    -pdf-outline-level: 4;
+}
+
+h6 {
+    -pdf-outline-level: 5;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+pre,
+hr {
+    margin:1em 0;
+}
+
+address,
+blockquote,
+body,
+center,
+dl,
+dir,
+div,
+fieldset,
+form,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+hr,
+isindex,
+menu,
+noframes,
+noscript,
+ol,
+p,
+pre,
+table,
+th,
+tr,
+td,
+ul,
+li,
+dd,
+dt,
+pdftoc {
+    display: block;
+}

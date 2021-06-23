@@ -1,3 +1,11 @@
+existing_bookmarks: flatten
+title: Complete Guide to the Personal Data Protection Bill
+author: Medianama
+keywords: privacy, surveillance, personal data protection
+subject: Personal Data Protection Bill
+
+[[toc]]
+
 # A Complete Guide to the Personal Data Protection Bill
 
 - [Cover](cover.pdf)
@@ -85,5 +93,7 @@
 - [Notes from the consultation in Delhi](8.a.pdf)
 - [Notes from the consultation in Mumbai](8.b.pdf)
 
-# Acknowledgements
-- [List of Authors](authors.pdf)
+# AUTHORS
+
+- Nemo
+- Dhananjay Balan
