@@ -92,8 +92,3 @@ subject: Personal Data Protection Bill
 
 - [Notes from the consultation in Delhi](8.a.pdf)
 - [Notes from the consultation in Mumbai](8.b.pdf)
-
-# AUTHORS
-
-- Nemo
-- Dhananjay Balan
